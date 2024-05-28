@@ -10,3 +10,5 @@ class ApiResponse {
         this.statusCode = statusCode < 400 // learn range for status code
     }
 }
+
+export {ApiResponse}
